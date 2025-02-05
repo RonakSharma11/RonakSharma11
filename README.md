@@ -50,7 +50,18 @@
 <img align="right" height="150" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47bdxm69xs5woprfp1putmmjgtu5vqwbb4a2vqudqp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
+<h3 align="left">👤 About Me</h3>
 <p align="left">🌱 I’m currently learning Web Penetration Testing, Developing OSINT Tools, Bug Hunting<br><br>💬 Ask me about OSINT, NMAP, Phishing<br><br>⚡ Successfully helped 20+ Businesses <br><br>📫 How to reach me ronak.d.sharma111@gmail.com</p>
+
+###
+
+###
+<h3 align="left">📝 My Articles</h3>
+
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ronak.d.sharma111/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ronak.d.sharma111/1" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ronak.d.sharma111/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ronak.d.sharma111/2" alt="Recent Article 2"> 
+
 
 ###
